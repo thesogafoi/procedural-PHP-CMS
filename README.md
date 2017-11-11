@@ -4,10 +4,11 @@
 	
 </head>
 <body>
-<p># procedural-PHP-CMS
-we create CMS with php procedural its good for beginners that who will know what really php is and working 
+<p># procedural-PHP-CMS</p>
 
-actually procedural php is hard way too building webAPP and CMS and dynamic Web sItes But its good for 
+<p style="color:red">we create CMS with php procedural its good for beginners that who will know what really php is and working </p>
+
+<p style="color:red">actually procedural php is hard way to building webAPP and CMS and dynamic Web sItes But its good for 
 understand what php really is and what this work 
 </p>
 <h3> Features of this Project is : </h3>
