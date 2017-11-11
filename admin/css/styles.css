@@ -1,0 +1,19 @@
+#load-screen{
+    background: url(../images/891256-solid-black-wallpaper.jpg);
+    position: fixed;
+    z-index: 10000;
+    top: 0px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+}
+#loading{
+    widows: 400px;
+    height: 400px;
+    margin: 10% auto;
+    background: url("../images/477.gif");
+    background-size: 5%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
